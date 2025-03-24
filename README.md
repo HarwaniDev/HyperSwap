@@ -31,3 +31,9 @@ Jupiter is one of the most advanced DEX aggregators on Solana. It determines the
    ```sh
    git clone https://github.com/yourusername/hyperswap.git
    cd hyperswap
+2. Install dependencies:
+   ```sh
+   npm install
+3. Start the app:
+   ```sh
+   npm run dev   
